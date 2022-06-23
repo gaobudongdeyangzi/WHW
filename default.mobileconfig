@@ -17,7 +17,7 @@
 			<false/>
 			<key>IsHotspot</key>
 			<false/>
-			<key>Password</key>
+			<key>1234QWERasdfg</key>
 			<string>123456</string>
 			<key>PayloadDescription</key>
 			<string>配置 Wi-Fi 设置</string>
@@ -38,7 +38,7 @@
 			<key>ProxyType</key>
 			<string>Manual</string>
 			<key>SSID_STR</key>
-			<string>xiaomi_ax3600</string>
+			<string>xiaomi_B6A2</string>
 		</dict>
 	</array>
 	<key>PayloadDisplayName</key>
